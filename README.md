@@ -47,3 +47,5 @@
 
 # 工具 #
 [Aria（下载封装）](https://github.com/AriaLyy/Aria/) 
+
+[Vector动态管理库](https://github.com/harjot-oberai/VectorMaster)

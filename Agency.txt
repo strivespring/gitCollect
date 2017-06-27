@@ -1,0 +1,14 @@
+VCharts
+richeditor-android
+AwesomeQRCode  ：https://github.com/SumiMakito/AwesomeQRCode
+ParticleTextView
+AndroidUtilCode
+
+SVG学习：http://blog.csdn.net/zwlove5280/article/details/73196543
+
+  MaskFilter学习：http://blog.csdn.net/hahajluzxb/article/details/8171245
+
+ http://www.jianshu.com/p/a3e162261ab6
+ http://blog.csdn.net/u012422440/article/details/52155924
+ 
+ https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485185&idx=1&sn=3809c66d91e92bb6ae5506a45d4d09f8&chksm=96cda64ca1ba2f5a842b60b78733ee54a088c380dfb296a9a756fe01e956fb2a21469a48ec1d&scene=0&key=31a3a388ed6fa873a4917c0f44f148e53e35d44ed59f9b30fcf852a5f9154f8bfd401396982c0f5abab1e1600cf8941eb2aab5bc92b331e8fb175cc6bbf05b43f0b08ae7688db8239ab1886aad80a5d3&ascene=0&uin=MjI2ODA0ODAzNg%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=UNqOeNIIE6yUG1a1JkeZm3Kxl06ydwp3wDqFtYDWdL2PZT1POIOU7W4%2FwcWYtGPq
